@@ -1,7 +1,7 @@
 # Hangman
 
 ## Demo
-
+Check it out at www.shreygeekyants.github.io/hangman
 ![FlepTile Demo](src/demo/hangman-demo.gif)
 
 ## Project setup
